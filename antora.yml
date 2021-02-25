@@ -1,9 +1,9 @@
 name: bonita
 title: Bonita
-version: 2021.1
+version: other
 asciidoc:
   attributes:
-    varVersion: 2021.1
+    varVersion: other
 # default
 #start_page: ROOT:index.adoc
 nav:
